@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# React Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Movie App using TMDB API to fetch movie info
 
-## Available Scripts
+## Screenshots
+Home Page:
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/44923253/155459122-f9c0ab18-d81d-481e-a451-7981950283e3.png)
 
-### `npm start`
+Movie Listing:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/44923253/155459021-53adcd84-dd8b-4974-ad3b-eb13b3eb7e19.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Movie Details Page:
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/44923253/155458889-4ec1a9c2-ef79-41be-8370-2b76b3c45b9e.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Mobile View:
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/44923253/155459573-4c7b69dc-1f87-4932-a465-5a58a5caf6a3.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Your must installed NodeJS and NPM to start project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Dependencies
 
-### `npm run eject`
+* ReactJS v17.0.2
+* React Router DOM v5.3.0
+* SASS v1.49.7
+* Swiper v6.8.4
+* Axios v0.26.0
+* Query String v7.1.1
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Install dependencies
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* How to install packages
+```
+npm install
+```
 
-## Learn More
+## Run project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Run dev server:
+```
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgments
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* [ReactJS](https://reactjs.org)
+* [SASS](https://sass-lang.com)
+* [Swiper](https://swiperjs.com)
+* [Axios](https://axios-http.com)
